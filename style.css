@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif
+}
+
+#head {
+    padding:  40x;
+}
+#bcgall {
+    background-color: brown;
+    text-align: center;
+}
+
+.containter{
+    background-color: brown;
+    padding: 30px;
+
+}
+
+.group{
+    margin-bottom: 50px;
+    padding: 100;
+
+}
+
+#btn{
+    background-color: blue;
+}
